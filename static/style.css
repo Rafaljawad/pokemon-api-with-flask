@@ -1,0 +1,24 @@
+.card{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    align-items: center;
+    justify-content: center;
+    border:1px solid black;
+    width:200px;
+    height:200px;
+}
+.container{
+
+    display: flex;
+    gap:10px;
+    width:98%;
+    margin: 10px auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
